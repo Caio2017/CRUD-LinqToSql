@@ -14,16 +14,6 @@ CREATE TABLE Funcionario (
 	Ativo				BIT,
 	UltimaAtualizacao	DATETIME
 )
-GO
-CREATE PROCEDURE sp_InserirFuncioanario 
-	@nom	VARCHAR(100),
-	@sex	CHAR(1),
-	@tel	CHAR(11),
-	@nas	DATE,
-	@sal	SMALLMONEY,
-	@atv	BIT
-	AS
-		INSERT INTO Funcionario VALUES (@nom, @sex, @tel, @nas, @sal, @atv, GETDATE())
 
 GO
 CREATE PROCEDURE sp_BuscarTodosFuncionarios
