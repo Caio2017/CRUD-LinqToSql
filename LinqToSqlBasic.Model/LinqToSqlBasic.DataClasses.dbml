@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_LinqToSqlBasic" Class="LinqToSqlBasic_DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=CAIO-DESKTOP;Initial Catalog=db_LinqToSqlBasic;User ID=sa" SettingsObjectName="LinqToSqlBasic.Model.Properties.Settings" SettingsPropertyName="db_LinqToSqlBasicConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Funcionario" Member="Funcionarios">
+    <Type Name="Funcionario" Id="ID1">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+      <Column Name="Telefone" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Column Name="DataNascimento" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Salario" Type="System.Decimal" DbType="SmallMoney" CanBeNull="true" />
+      <Column Name="Ativo" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="UltimaAtualizacao" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.sp_InserirFuncioanario" Method="sp_InserirFuncioanario">
+    <Parameter Name="nom" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="sex" Type="System.Char" DbType="Char(1)" />
+    <Parameter Name="tel" Type="System.String" DbType="Char(11)" />
+    <Parameter Name="nas" Type="System.DateTime" DbType="Date" />
+    <Parameter Name="sal" Type="System.Decimal" DbType="SmallMoney" />
+    <Parameter Name="atv" Type="System.Boolean" DbType="Bit" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.sp_BuscarTodosFuncionarios" Method="sp_BuscarTodosFuncionarios">
+    <ElementType IdRef="ID1" />
+  </Function>
+</Database>

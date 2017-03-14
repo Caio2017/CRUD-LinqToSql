@@ -1,0 +1,6 @@
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\bin\Debug\LinqToSqlBasic.DataAcess.dll.config
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\bin\Debug\LinqToSqlBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\bin\Debug\LinqToSqlBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\obj\Debug\LinqToSqlBasic.DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\obj\Debug\LinqToSqlBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\obj\Debug\LinqToSqlBasic.DataAcess.pdb

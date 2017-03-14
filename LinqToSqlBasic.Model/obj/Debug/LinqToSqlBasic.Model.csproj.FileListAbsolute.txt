@@ -1,0 +1,17 @@
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\bin\Debug\LinqToSqlBasic.DataAcess.dll.config
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\bin\Debug\LinqToSqlBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\bin\Debug\LinqToSqlBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\obj\Debug\LinqToSqlBasic.DataAcess.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.DataAcess\obj\Debug\LinqToSqlBasic.DataAcess.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.Model\obj\Debug\LinqToSqlBasic.Model.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.Model\bin\Debug\LinqToSqlBasic.Model.dll.config
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.Model\bin\Debug\LinqToSqlBasic.Model.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.Model\bin\Debug\LinqToSqlBasic.Model.pdb
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.Model\obj\Debug\LinqToSqlBasic.Model.dll
+C:\Users\CAIO\Desktop\CRUDLinqToSql0\LinqToSQLBasic\LinqToSqlBasic.Model\obj\Debug\LinqToSqlBasic.Model.pdb
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic.Model\bin\Debug\LinqToSqlBasic.Model.dll.config
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic.Model\bin\Debug\LinqToSqlBasic.Model.dll
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic.Model\bin\Debug\LinqToSqlBasic.Model.pdb
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic.Model\obj\Debug\LinqToSqlBasic.Model.csprojResolveAssemblyReference.cache
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic.Model\obj\Debug\LinqToSqlBasic.Model.dll
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic.Model\obj\Debug\LinqToSqlBasic.Model.pdb

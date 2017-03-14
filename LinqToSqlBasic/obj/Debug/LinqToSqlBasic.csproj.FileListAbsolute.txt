@@ -1,0 +1,1 @@
+C:\Users\CAIO\Desktop\CRUD LinqToSql\LinqToSQLBasic\LinqToSqlBasic\bin\Debug\LinqToSqlBasic.exe.config
